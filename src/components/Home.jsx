@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from './components/Header'
-import SubBody from './components/SubBody'
+import Header from './Header'
+import SubBody from './SubBody'
 
 function Home() {
   return (
