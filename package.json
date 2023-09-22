@@ -1,7 +1,7 @@
 {
   "name": "electric_fryer",
   "version": "0.1.0",
-  "homepage":"https://reem99-sina.github.io/",
+  "homepage":"https://reem99-sina.github.io/fryer/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
